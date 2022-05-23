@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648713225707",
+    "project_id": "todoapplication-89c97",
+    "storage_bucket": "todoapplication-89c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648713225707:android:bf16f40606d4afdc6105ae",
+        "android_client_info": {
+          "package_name": "com.example.practice_cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648713225707-9vat727i9pu1ff9hmf2gh7bbgahgus2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepXRYdBh_XWN7lQvtTtIYSavnESxsxHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648713225707-9vat727i9pu1ff9hmf2gh7bbgahgus2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
